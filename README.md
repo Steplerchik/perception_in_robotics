@@ -1,9 +1,6 @@
-# Perception in Robotics course T3 2019-2020
-Perception in Robotics course, at Skoltech, MS in Data Science, during T3, 2020.
-About us: we are the [Mobile robotics Lab.](https://sites.skoltech.ru/mobilerobotics/) at [Skoltech](https://www.skoltech.ru/en)
+# Perception in Robotics course
 
-This repoository includes all material used during the course: Class notes, unedited videos of the lectures and problem sets.
-
+### [Link to the Final Project repository](https://github.com/IlinValery/perception_final_2020.git)
 
 ### [Link to the YouTube channel with video lectures](https://www.youtube.com/playlist?list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn)
 
@@ -23,11 +20,4 @@ This repoository includes all material used during the course: Class notes, uned
  * [L14: Point Cloud Aligment](https://www.youtube.com/watch?v=eg99-AYU2ng&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=14)
  * [L15: Mapping](https://www.youtube.com/watch?v=m5f4JZGRJmg&list=PLRXYrdEUvBoCwKsQHJzafQYb7Nut0S2bn&index=15)
  * [L16: Visual SLAM](https://www.youtube.com/watch?v=7IE00Ghbv-0)
-
-
-### [OFFICIAL Telegram channel with TAs](https://t.me/perc_rob)
-
-## How to use this repo
-
-We will upload regularly all material from canvas to here. Problem Sets will also be uploaded, those requiring code already have the correct structure. Suggestion: This repository could be pushed to your personal space (create new repo) and keep both remotes, here for updates from class, your space to work on problem sets.
 
