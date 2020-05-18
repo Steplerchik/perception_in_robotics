@@ -1,4 +1,4 @@
-# Perception in Robotics course
+# Perception in Robotics
 
 ### [Link to the Final Project repository](https://github.com/IlinValery/perception_final_2020.git)
 
